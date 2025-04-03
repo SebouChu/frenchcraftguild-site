@@ -5,7 +5,7 @@ width: 768
 height: 768
 ratio: 1.0
 format: square
-url: https://frenchcraftguild.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhmZjlkNTljLTQzMDItNGJkNi1iNmM0LWZhYTQ4NWZjNTc1NiIsInB1ciI6ImJsb2JfaWQifX0=--5da6f012147497c7f31512e755d4499a844c56bb/P-Chenel-Sophie-768x768.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/3hvqdzqiv2oongun5is9bulqwgny
-download_url: https://frenchcraftguild.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjhmZjlkNTljLTQzMDItNGJkNi1iNmM0LWZhYTQ4NWZjNTc1NiIsInB1ciI6ImJsb2JfaWQifX0=--5da6f012147497c7f31512e755d4499a844c56bb
+url: http://frenchcraftguild.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhmZjlkNTljLTQzMDItNGJkNi1iNmM0LWZhYTQ4NWZjNTc1NiIsInB1ciI6ImJsb2JfaWQifX0=--94a1cfde3abc809dd56ce9ea5ad61b42e2d3ce33/P-Chenel-Sophie-768x768.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/3hvqdzqiv2oongun5is9bulqwgny
+download_url: http://frenchcraftguild.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjhmZjlkNTljLTQzMDItNGJkNi1iNmM0LWZhYTQ4NWZjNTc1NiIsInB1ciI6ImJsb2JfaWQifX0=--94a1cfde3abc809dd56ce9ea5ad61b42e2d3ce33
 

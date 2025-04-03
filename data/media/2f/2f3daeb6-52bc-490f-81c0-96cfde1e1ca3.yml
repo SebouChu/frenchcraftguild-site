@@ -5,7 +5,7 @@ width: 727
 height: 1022
 ratio: 0.7113502935420744
 format: portrait
-url: https://frenchcraftguild.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjJmM2RhZWI2LTUyYmMtNDkwZi04MWMwLTk2Y2ZkZTFlMWNhMyIsInB1ciI6ImJsb2JfaWQifX0=--fce7f0149a1da29d19ab904892f412fd85924653/fondationbp_1704904905_3277302337457191948_30825812258.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/fo34nk3epndb98zsl0qzrg0cb980
-download_url: https://frenchcraftguild.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjJmM2RhZWI2LTUyYmMtNDkwZi04MWMwLTk2Y2ZkZTFlMWNhMyIsInB1ciI6ImJsb2JfaWQifX0=--fce7f0149a1da29d19ab904892f412fd85924653
+url: http://frenchcraftguild.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjJmM2RhZWI2LTUyYmMtNDkwZi04MWMwLTk2Y2ZkZTFlMWNhMyIsInB1ciI6ImJsb2JfaWQifX0=--ac062dd01988534a6f8de948fddde0d37a8bbc9e/fondationbp_1704904905_3277302337457191948_30825812258.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/fo34nk3epndb98zsl0qzrg0cb980
+download_url: http://frenchcraftguild.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjJmM2RhZWI2LTUyYmMtNDkwZi04MWMwLTk2Y2ZkZTFlMWNhMyIsInB1ciI6ImJsb2JfaWQifX0=--ac062dd01988534a6f8de948fddde0d37a8bbc9e
 

@@ -5,7 +5,7 @@ width: 1200
 height: 800
 ratio: 1.5
 format: landscape
-url: https://frenchcraftguild.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjI1N2ZjZmQzLTY4MGYtNGVmZS05NmYxLWNjMTFmYmM4YmRiOCIsInB1ciI6ImJsb2JfaWQifX0=--82eab557ae1a1c96eb505ce3e081d18e4ad3c4bf/hb0y0kwmmhr3mguiqasyvhvcuqmo.jpeg
-direct_url: https://osuny.s3.fr-par.scw.cloud/bi83kahmh9ud85zbg0lvzl55i3tm
-download_url: https://frenchcraftguild.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjI1N2ZjZmQzLTY4MGYtNGVmZS05NmYxLWNjMTFmYmM4YmRiOCIsInB1ciI6ImJsb2JfaWQifX0=--82eab557ae1a1c96eb505ce3e081d18e4ad3c4bf
+url: http://frenchcraftguild.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjI1N2ZjZmQzLTY4MGYtNGVmZS05NmYxLWNjMTFmYmM4YmRiOCIsInB1ciI6ImJsb2JfaWQifX0=--08e2a06ba6cb75397e18fa54597d60a2f369597c/hb0y0kwmmhr3mguiqasyvhvcuqmo.jpeg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/bi83kahmh9ud85zbg0lvzl55i3tm
+download_url: http://frenchcraftguild.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjI1N2ZjZmQzLTY4MGYtNGVmZS05NmYxLWNjMTFmYmM4YmRiOCIsInB1ciI6ImJsb2JfaWQifX0=--08e2a06ba6cb75397e18fa54597d60a2f369597c
 

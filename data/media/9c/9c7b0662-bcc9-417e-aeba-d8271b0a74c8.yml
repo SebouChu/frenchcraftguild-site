@@ -5,7 +5,7 @@ width: 1960
 height: 1960
 ratio: 1.0
 format: square
-url: https://frenchcraftguild.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjljN2IwNjYyLWJjYzktNDE3ZS1hZWJhLWQ4MjcxYjBhNzRjOCIsInB1ciI6ImJsb2JfaWQifX0=--43a739ea80013f8e20e52fa99071a9f3392cecc6/Cadran_tonneau_retouche_2.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/5vdp3ut8xgc6eg8dd2i0lzxa47lp
-download_url: https://frenchcraftguild.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjljN2IwNjYyLWJjYzktNDE3ZS1hZWJhLWQ4MjcxYjBhNzRjOCIsInB1ciI6ImJsb2JfaWQifX0=--43a739ea80013f8e20e52fa99071a9f3392cecc6
+url: http://frenchcraftguild.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjljN2IwNjYyLWJjYzktNDE3ZS1hZWJhLWQ4MjcxYjBhNzRjOCIsInB1ciI6ImJsb2JfaWQifX0=--f29ae61df290a36722bd533ecc5c63ac5ddfd024/Cadran_tonneau_retouche_2.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/5vdp3ut8xgc6eg8dd2i0lzxa47lp
+download_url: http://frenchcraftguild.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjljN2IwNjYyLWJjYzktNDE3ZS1hZWJhLWQ4MjcxYjBhNzRjOCIsInB1ciI6ImJsb2JfaWQifX0=--f29ae61df290a36722bd533ecc5c63ac5ddfd024
 

@@ -5,7 +5,7 @@ width: 800
 height: 998
 ratio: 0.8016032064128257
 format: portrait
-url: https://frenchcraftguild.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImFhMGQ4ODVkLWI5OTctNDM3Mi05MzNiLTFlMDU5NTY3ZTM0YiIsInB1ciI6ImJsb2JfaWQifX0=--ebc3aabbcf5efb3acd00f563a25543966b2195f1/table-solaire-trianon-2.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/cjdugdw3widzyel8lg6ffc7uf1t8
-download_url: https://frenchcraftguild.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImFhMGQ4ODVkLWI5OTctNDM3Mi05MzNiLTFlMDU5NTY3ZTM0YiIsInB1ciI6ImJsb2JfaWQifX0=--ebc3aabbcf5efb3acd00f563a25543966b2195f1
+url: http://frenchcraftguild.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImFhMGQ4ODVkLWI5OTctNDM3Mi05MzNiLTFlMDU5NTY3ZTM0YiIsInB1ciI6ImJsb2JfaWQifX0=--9e8e104692aec388582c48d48b5b20ae8979fff2/table-solaire-trianon-2.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/cjdugdw3widzyel8lg6ffc7uf1t8
+download_url: http://frenchcraftguild.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImFhMGQ4ODVkLWI5OTctNDM3Mi05MzNiLTFlMDU5NTY3ZTM0YiIsInB1ciI6ImJsb2JfaWQifX0=--9e8e104692aec388582c48d48b5b20ae8979fff2
 

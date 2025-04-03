@@ -5,7 +5,7 @@ width: 765
 height: 1096
 ratio: 0.697992700729927
 format: portrait
-url: https://frenchcraftguild.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImIzYjgyMzc2LTMxNjUtNGE3NC1hMTYzLTk4YjlkNTk4ZWU5MSIsInB1ciI6ImJsb2JfaWQifX0=--110a91cf2bc8cbd2835783324bc0b9a2bf33078e/maceo-huitres.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/uuserot9qqxfto4glr3k0sstj64q
-download_url: https://frenchcraftguild.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImIzYjgyMzc2LTMxNjUtNGE3NC1hMTYzLTk4YjlkNTk4ZWU5MSIsInB1ciI6ImJsb2JfaWQifX0=--110a91cf2bc8cbd2835783324bc0b9a2bf33078e
+url: http://frenchcraftguild.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImIzYjgyMzc2LTMxNjUtNGE3NC1hMTYzLTk4YjlkNTk4ZWU5MSIsInB1ciI6ImJsb2JfaWQifX0=--41bdd4df37e0a9388e35b1e58d02b08e637a6f91/maceo-huitres.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/uuserot9qqxfto4glr3k0sstj64q
+download_url: http://frenchcraftguild.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImIzYjgyMzc2LTMxNjUtNGE3NC1hMTYzLTk4YjlkNTk4ZWU5MSIsInB1ciI6ImJsb2JfaWQifX0=--41bdd4df37e0a9388e35b1e58d02b08e637a6f91
 

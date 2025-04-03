@@ -5,7 +5,7 @@ width: 768
 height: 1024
 ratio: 0.75
 format: portrait
-url: https://frenchcraftguild.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBlNTYzMGNlLTkxYmUtNGYzZS04YmVjLTJkNTYzYmEzNjhiNCIsInB1ciI6ImJsb2JfaWQifX0=--797d7cf58e82d8d5186d8321cf84c6b9122ce312/applique-granite-2-40-x-70-5G9.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/h8pobteumgyztste5haadnc8hkji
-download_url: https://frenchcraftguild.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjBlNTYzMGNlLTkxYmUtNGYzZS04YmVjLTJkNTYzYmEzNjhiNCIsInB1ciI6ImJsb2JfaWQifX0=--797d7cf58e82d8d5186d8321cf84c6b9122ce312
+url: http://frenchcraftguild.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBlNTYzMGNlLTkxYmUtNGYzZS04YmVjLTJkNTYzYmEzNjhiNCIsInB1ciI6ImJsb2JfaWQifX0=--a2b3ebe06bb0a08cc10a88ba0a6e6ac97c5c7a1e/applique-granite-2-40-x-70-5G9.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/h8pobteumgyztste5haadnc8hkji
+download_url: http://frenchcraftguild.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjBlNTYzMGNlLTkxYmUtNGYzZS04YmVjLTJkNTYzYmEzNjhiNCIsInB1ciI6ImJsb2JfaWQifX0=--a2b3ebe06bb0a08cc10a88ba0a6e6ac97c5c7a1e
 

@@ -5,7 +5,7 @@ width: 768
 height: 432
 ratio: 1.7777777777777777
 format: landscape
-url: https://frenchcraftguild.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjQ0YjMxYzViLWFkNTktNDFkYy05OWMwLTQzYjBmNmFhMDZlMCIsInB1ciI6ImJsb2JfaWQifX0=--9a8d23285ee42ff1342f972d4f02cf9f5007c49d/AnneCarminati_Galets_0309_b-copie-768x432.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/1qpz3ghigfp7ufcv1brhvbh8hw5r
-download_url: https://frenchcraftguild.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjQ0YjMxYzViLWFkNTktNDFkYy05OWMwLTQzYjBmNmFhMDZlMCIsInB1ciI6ImJsb2JfaWQifX0=--9a8d23285ee42ff1342f972d4f02cf9f5007c49d
+url: http://frenchcraftguild.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjQ0YjMxYzViLWFkNTktNDFkYy05OWMwLTQzYjBmNmFhMDZlMCIsInB1ciI6ImJsb2JfaWQifX0=--d296d5dddc71d785aa95f4d016450fd6836714d4/AnneCarminati_Galets_0309_b-copie-768x432.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/1qpz3ghigfp7ufcv1brhvbh8hw5r
+download_url: http://frenchcraftguild.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjQ0YjMxYzViLWFkNTktNDFkYy05OWMwLTQzYjBmNmFhMDZlMCIsInB1ciI6ImJsb2JfaWQifX0=--d296d5dddc71d785aa95f4d016450fd6836714d4
 

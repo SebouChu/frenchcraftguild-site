@@ -5,7 +5,7 @@ width: 768
 height: 432
 ratio: 1.7777777777777777
 format: landscape
-url: https://frenchcraftguild.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjcwN2ZkMDc5LTljZDEtNDllNC04MDM0LWVjNjUxZjE3N2NmZiIsInB1ciI6ImJsb2JfaWQifX0=--3cadc8ca3ab5b481f57c133c3baed196f4ee52b0/AnneCarminati_Beach_T_0048-copie-768x432.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/q8zosj44lpjp271gm9hly9thu352
-download_url: https://frenchcraftguild.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjcwN2ZkMDc5LTljZDEtNDllNC04MDM0LWVjNjUxZjE3N2NmZiIsInB1ciI6ImJsb2JfaWQifX0=--3cadc8ca3ab5b481f57c133c3baed196f4ee52b0
+url: http://frenchcraftguild.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjcwN2ZkMDc5LTljZDEtNDllNC04MDM0LWVjNjUxZjE3N2NmZiIsInB1ciI6ImJsb2JfaWQifX0=--c717c36832cf1ed7318337a1a867e02917ef1ea8/AnneCarminati_Beach_T_0048-copie-768x432.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/q8zosj44lpjp271gm9hly9thu352
+download_url: http://frenchcraftguild.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjcwN2ZkMDc5LTljZDEtNDllNC04MDM0LWVjNjUxZjE3N2NmZiIsInB1ciI6ImJsb2JfaWQifX0=--c717c36832cf1ed7318337a1a867e02917ef1ea8
 

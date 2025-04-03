@@ -5,7 +5,7 @@ width: 2000
 height: 1200
 ratio: 1.6666666666666667
 format: landscape
-url: https://frenchcraftguild.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjM3MzUzYjY5LWFkYzItNDYxYS04MjZkLTM1OTc0OTNmNWRmMiIsInB1ciI6ImJsb2JfaWQifX0=--cf0cb8213183bec8214674c77b476249386eec82/JEP2022.jpeg
-direct_url: https://osuny.s3.fr-par.scw.cloud/olu4utpxkz80ipl81frj2ld3cocl
-download_url: https://frenchcraftguild.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjM3MzUzYjY5LWFkYzItNDYxYS04MjZkLTM1OTc0OTNmNWRmMiIsInB1ciI6ImJsb2JfaWQifX0=--cf0cb8213183bec8214674c77b476249386eec82
+url: http://frenchcraftguild.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjM3MzUzYjY5LWFkYzItNDYxYS04MjZkLTM1OTc0OTNmNWRmMiIsInB1ciI6ImJsb2JfaWQifX0=--0c344209de3d617cf3dbf2278f4fd9a2d38f9d31/JEP2022.jpeg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/olu4utpxkz80ipl81frj2ld3cocl
+download_url: http://frenchcraftguild.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjM3MzUzYjY5LWFkYzItNDYxYS04MjZkLTM1OTc0OTNmNWRmMiIsInB1ciI6ImJsb2JfaWQifX0=--0c344209de3d617cf3dbf2278f4fd9a2d38f9d31
 

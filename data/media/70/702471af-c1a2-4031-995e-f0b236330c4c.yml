@@ -5,7 +5,7 @@ width: 3024
 height: 1492
 ratio: 2.026809651474531
 format: landscape
-url: https://frenchcraftguild.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjcwMjQ3MWFmLWMxYTItNDAzMS05OTVlLWYwYjIzNjMzMGM0YyIsInB1ciI6ImJsb2JfaWQifX0=--3a9bd9f9655eb506c00d31e0a5294e46ff42d625/Carlin_FCG.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/77qzcgh2vhk99ykuh6x8sqmlkv5h
-download_url: https://frenchcraftguild.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjcwMjQ3MWFmLWMxYTItNDAzMS05OTVlLWYwYjIzNjMzMGM0YyIsInB1ciI6ImJsb2JfaWQifX0=--3a9bd9f9655eb506c00d31e0a5294e46ff42d625
+url: http://frenchcraftguild.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjcwMjQ3MWFmLWMxYTItNDAzMS05OTVlLWYwYjIzNjMzMGM0YyIsInB1ciI6ImJsb2JfaWQifX0=--111a2660ea85de6d41b5578cc3798cb6fa88ffe8/Carlin_FCG.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/77qzcgh2vhk99ykuh6x8sqmlkv5h
+download_url: http://frenchcraftguild.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjcwMjQ3MWFmLWMxYTItNDAzMS05OTVlLWYwYjIzNjMzMGM0YyIsInB1ciI6ImJsb2JfaWQifX0=--111a2660ea85de6d41b5578cc3798cb6fa88ffe8
 

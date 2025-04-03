@@ -5,7 +5,7 @@ width: 1200
 height: 800
 ratio: 1.5
 format: landscape
-url: https://frenchcraftguild.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNkNjU3OTRkLTE4MTYtNGFkOS1hMjNlLTYyM2MzYmYyNjUwNyIsInB1ciI6ImJsb2JfaWQifX0=--a311139cb123d747c871e367006a0e64c42606d1/senequier-boisbrule.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/hb0y0kwmmhr3mguiqasyvhvcuqmo
-download_url: https://frenchcraftguild.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjNkNjU3OTRkLTE4MTYtNGFkOS1hMjNlLTYyM2MzYmYyNjUwNyIsInB1ciI6ImJsb2JfaWQifX0=--a311139cb123d747c871e367006a0e64c42606d1
+url: http://frenchcraftguild.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNkNjU3OTRkLTE4MTYtNGFkOS1hMjNlLTYyM2MzYmYyNjUwNyIsInB1ciI6ImJsb2JfaWQifX0=--57b916d7287546ed4673205a4ad32e95770611d1/senequier-boisbrule.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/hb0y0kwmmhr3mguiqasyvhvcuqmo
+download_url: http://frenchcraftguild.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjNkNjU3OTRkLTE4MTYtNGFkOS1hMjNlLTYyM2MzYmYyNjUwNyIsInB1ciI6ImJsb2JfaWQifX0=--57b916d7287546ed4673205a4ad32e95770611d1
 

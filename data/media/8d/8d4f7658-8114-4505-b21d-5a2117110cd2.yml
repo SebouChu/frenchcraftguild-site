@@ -5,7 +5,7 @@ width: 878
 height: 878
 ratio: 1.0
 format: square
-url: https://frenchcraftguild.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhkNGY3NjU4LTgxMTQtNDUwNS1iMjFkLTVhMjExNzExMGNkMiIsInB1ciI6ImJsb2JfaWQifX0=--baa397968e73f4d5e9df26bb4b240db85fa28df2/designceramique_28156725_169637760333037_4366126284095356928_n.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/9jom6bb940g50z9l45zjh9d3eviu
-download_url: https://frenchcraftguild.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjhkNGY3NjU4LTgxMTQtNDUwNS1iMjFkLTVhMjExNzExMGNkMiIsInB1ciI6ImJsb2JfaWQifX0=--baa397968e73f4d5e9df26bb4b240db85fa28df2
+url: http://frenchcraftguild.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhkNGY3NjU4LTgxMTQtNDUwNS1iMjFkLTVhMjExNzExMGNkMiIsInB1ciI6ImJsb2JfaWQifX0=--9fc089e6be94aaa9b5ceb72d4213a23f557930b6/designceramique_28156725_169637760333037_4366126284095356928_n.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/9jom6bb940g50z9l45zjh9d3eviu
+download_url: http://frenchcraftguild.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjhkNGY3NjU4LTgxMTQtNDUwNS1iMjFkLTVhMjExNzExMGNkMiIsInB1ciI6ImJsb2JfaWQifX0=--9fc089e6be94aaa9b5ceb72d4213a23f557930b6
 

@@ -5,7 +5,7 @@ width: 6000
 height: 4000
 ratio: 1.5
 format: landscape
-url: https://frenchcraftguild.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNhNzkxODc2LTBlOTAtNGUyNy05YWNlLTU1OTJkMTRiNGZlYSIsInB1ciI6ImJsb2JfaWQifX0=--cac08c58f5baf2c820ab925874f012585dba642b/atelierlandes-divagation.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/bfay4mzysw0zt9bovujlbc1kfb71
-download_url: https://frenchcraftguild.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjNhNzkxODc2LTBlOTAtNGUyNy05YWNlLTU1OTJkMTRiNGZlYSIsInB1ciI6ImJsb2JfaWQifX0=--cac08c58f5baf2c820ab925874f012585dba642b
+url: http://frenchcraftguild.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNhNzkxODc2LTBlOTAtNGUyNy05YWNlLTU1OTJkMTRiNGZlYSIsInB1ciI6ImJsb2JfaWQifX0=--25ce4f39daeaeafdc49f6292e94cf2a1c9eb1f16/atelierlandes-divagation.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/bfay4mzysw0zt9bovujlbc1kfb71
+download_url: http://frenchcraftguild.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjNhNzkxODc2LTBlOTAtNGUyNy05YWNlLTU1OTJkMTRiNGZlYSIsInB1ciI6ImJsb2JfaWQifX0=--25ce4f39daeaeafdc49f6292e94cf2a1c9eb1f16
 

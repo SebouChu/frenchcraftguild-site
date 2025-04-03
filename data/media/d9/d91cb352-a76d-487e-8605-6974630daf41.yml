@@ -5,7 +5,7 @@ width: 555
 height: 370
 ratio: 1.5
 format: landscape
-url: https://frenchcraftguild.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQ5MWNiMzUyLWE3NmQtNDg3ZS04NjA1LTY5NzQ2MzBkYWY0MSIsInB1ciI6ImJsb2JfaWQifX0=--d0669f1106bbe96918ac61920d0f9a65915711bb/Echantillon-matiere_LUXDAWN-2019.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/ru5jhx1fnvaft6jaw564fimtbapc
-download_url: https://frenchcraftguild.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImQ5MWNiMzUyLWE3NmQtNDg3ZS04NjA1LTY5NzQ2MzBkYWY0MSIsInB1ciI6ImJsb2JfaWQifX0=--d0669f1106bbe96918ac61920d0f9a65915711bb
+url: http://frenchcraftguild.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQ5MWNiMzUyLWE3NmQtNDg3ZS04NjA1LTY5NzQ2MzBkYWY0MSIsInB1ciI6ImJsb2JfaWQifX0=--305bf725f019b82a4b26afca4beef51b6bec3735/Echantillon-matiere_LUXDAWN-2019.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ru5jhx1fnvaft6jaw564fimtbapc
+download_url: http://frenchcraftguild.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImQ5MWNiMzUyLWE3NmQtNDg3ZS04NjA1LTY5NzQ2MzBkYWY0MSIsInB1ciI6ImJsb2JfaWQifX0=--305bf725f019b82a4b26afca4beef51b6bec3735
 

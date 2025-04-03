@@ -5,7 +5,7 @@ width: 500
 height: 450
 ratio: 1.1111111111111112
 format: landscape
-url: https://frenchcraftguild.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImI1MGZjN2NkLTlhNmItNGNhYS1iMjM1LTU2YWZlOGYxNDZhZCIsInB1ciI6ImJsb2JfaWQifX0=--f7cb181a7f3750ca118a13bdd92eebb30ab5b6bf/hemp-fibers-2.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/q7zk5s2b74adv4ryljvzlgcm6fd4
-download_url: https://frenchcraftguild.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImI1MGZjN2NkLTlhNmItNGNhYS1iMjM1LTU2YWZlOGYxNDZhZCIsInB1ciI6ImJsb2JfaWQifX0=--f7cb181a7f3750ca118a13bdd92eebb30ab5b6bf
+url: http://frenchcraftguild.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImI1MGZjN2NkLTlhNmItNGNhYS1iMjM1LTU2YWZlOGYxNDZhZCIsInB1ciI6ImJsb2JfaWQifX0=--8121f38b2c4c50e0fdf3bd9f6b2e5b5f9bfebb2b/hemp-fibers-2.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/q7zk5s2b74adv4ryljvzlgcm6fd4
+download_url: http://frenchcraftguild.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImI1MGZjN2NkLTlhNmItNGNhYS1iMjM1LTU2YWZlOGYxNDZhZCIsInB1ciI6ImJsb2JfaWQifX0=--8121f38b2c4c50e0fdf3bd9f6b2e5b5f9bfebb2b
 

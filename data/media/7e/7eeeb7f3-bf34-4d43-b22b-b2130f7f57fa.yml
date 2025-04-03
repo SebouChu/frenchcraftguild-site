@@ -5,7 +5,7 @@ width: 800
 height: 998
 ratio: 0.8016032064128257
 format: portrait
-url: https://frenchcraftguild.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjdlZWViN2YzLWJmMzQtNGQ0My1iMjJiLWIyMTMwZjdmNTdmYSIsInB1ciI6ImJsb2JfaWQifX0=--a54efd3c1f0e53a4779bbb7639e0fda041ae7edf/plateau-de-table-1.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/g121y90nmnakcs8g0ciqqxurtvxo
-download_url: https://frenchcraftguild.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjdlZWViN2YzLWJmMzQtNGQ0My1iMjJiLWIyMTMwZjdmNTdmYSIsInB1ciI6ImJsb2JfaWQifX0=--a54efd3c1f0e53a4779bbb7639e0fda041ae7edf
+url: http://frenchcraftguild.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjdlZWViN2YzLWJmMzQtNGQ0My1iMjJiLWIyMTMwZjdmNTdmYSIsInB1ciI6ImJsb2JfaWQifX0=--807c4a2a1aa45f87ff5954ebb86f4b47e4de0106/plateau-de-table-1.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/g121y90nmnakcs8g0ciqqxurtvxo
+download_url: http://frenchcraftguild.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjdlZWViN2YzLWJmMzQtNGQ0My1iMjJiLWIyMTMwZjdmNTdmYSIsInB1ciI6ImJsb2JfaWQifX0=--807c4a2a1aa45f87ff5954ebb86f4b47e4de0106
 

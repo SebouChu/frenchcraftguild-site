@@ -5,7 +5,7 @@ width: 1500
 height: 998
 ratio: 1.503006012024048
 format: landscape
-url: https://frenchcraftguild.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImMzZGM2MDRlLTIzNjctNGIzOS04ZGY5LWIyYmI0ZTE3MjdjNCIsInB1ciI6ImJsb2JfaWQifX0=--1e686d2e42f6aa4d92c637d77d12ebdfc7f18bf8/nike-2.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/0lr9r8qite0u9kcrz7sc454h2kim
-download_url: https://frenchcraftguild.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImMzZGM2MDRlLTIzNjctNGIzOS04ZGY5LWIyYmI0ZTE3MjdjNCIsInB1ciI6ImJsb2JfaWQifX0=--1e686d2e42f6aa4d92c637d77d12ebdfc7f18bf8
+url: http://frenchcraftguild.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImMzZGM2MDRlLTIzNjctNGIzOS04ZGY5LWIyYmI0ZTE3MjdjNCIsInB1ciI6ImJsb2JfaWQifX0=--093a11b4da09330ae7f37e4cfb756dbdc87a7f6a/nike-2.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/0lr9r8qite0u9kcrz7sc454h2kim
+download_url: http://frenchcraftguild.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImMzZGM2MDRlLTIzNjctNGIzOS04ZGY5LWIyYmI0ZTE3MjdjNCIsInB1ciI6ImJsb2JfaWQifX0=--093a11b4da09330ae7f37e4cfb756dbdc87a7f6a
 

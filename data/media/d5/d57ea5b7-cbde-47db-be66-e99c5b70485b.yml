@@ -5,7 +5,7 @@ width: 2560
 height: 2560
 ratio: 1.0
 format: square
-url: https://frenchcraftguild.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQ1N2VhNWI3LWNiZGUtNDdkYi1iZTY2LWU5OWM1YjcwNDg1YiIsInB1ciI6ImJsb2JfaWQifX0=--b03fe7a09d54c48ebffe115cfa383f53faf1423b/001_commode3D-scaled.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/sgf22kcn5626uytwqmxsik4ohbbk
-download_url: https://frenchcraftguild.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImQ1N2VhNWI3LWNiZGUtNDdkYi1iZTY2LWU5OWM1YjcwNDg1YiIsInB1ciI6ImJsb2JfaWQifX0=--b03fe7a09d54c48ebffe115cfa383f53faf1423b
+url: http://frenchcraftguild.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQ1N2VhNWI3LWNiZGUtNDdkYi1iZTY2LWU5OWM1YjcwNDg1YiIsInB1ciI6ImJsb2JfaWQifX0=--9b1bc21a8f534018dae5ae51aab6d1113dbdce6f/001_commode3D-scaled.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/sgf22kcn5626uytwqmxsik4ohbbk
+download_url: http://frenchcraftguild.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImQ1N2VhNWI3LWNiZGUtNDdkYi1iZTY2LWU5OWM1YjcwNDg1YiIsInB1ciI6ImJsb2JfaWQifX0=--9b1bc21a8f534018dae5ae51aab6d1113dbdce6f
 

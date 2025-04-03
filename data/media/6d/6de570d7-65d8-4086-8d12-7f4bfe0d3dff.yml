@@ -5,7 +5,7 @@ width: 2000
 height: 1200
 ratio: 1.6666666666666667
 format: landscape
-url: https://frenchcraftguild.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjZkZTU3MGQ3LTY1ZDgtNDA4Ni04ZDEyLTdmNGJmZTBkM2RmZiIsInB1ciI6ImJsb2JfaWQifX0=--d38ab00f2276d77da5eb4be605aee437dbfde8b5/P-Chenel-work3-2000x1200.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/4z2qtwa07poiu4u75zci2dadk0y3
-download_url: https://frenchcraftguild.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjZkZTU3MGQ3LTY1ZDgtNDA4Ni04ZDEyLTdmNGJmZTBkM2RmZiIsInB1ciI6ImJsb2JfaWQifX0=--d38ab00f2276d77da5eb4be605aee437dbfde8b5
+url: http://frenchcraftguild.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjZkZTU3MGQ3LTY1ZDgtNDA4Ni04ZDEyLTdmNGJmZTBkM2RmZiIsInB1ciI6ImJsb2JfaWQifX0=--5ef88d22229f67f10973e66df6930525590c7c1b/P-Chenel-work3-2000x1200.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/4z2qtwa07poiu4u75zci2dadk0y3
+download_url: http://frenchcraftguild.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjZkZTU3MGQ3LTY1ZDgtNDA4Ni04ZDEyLTdmNGJmZTBkM2RmZiIsInB1ciI6ImJsb2JfaWQifX0=--5ef88d22229f67f10973e66df6930525590c7c1b
 

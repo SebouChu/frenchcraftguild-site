@@ -5,7 +5,7 @@ width: 1274
 height: 906
 ratio: 1.4061810154525387
 format: landscape
-url: https://frenchcraftguild.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjU0NWM2YTBkLWNmNjAtNGIyOS04OGRhLWVhYTEwZTU3MWZjNyIsInB1ciI6ImJsb2JfaWQifX0=--8a3647b70f6db39f236cd13d24ecda1d24c962d0/chenel-luminaire-XXL.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/x5bsx0u8lse3xrw8jmw7cixduv0o
-download_url: https://frenchcraftguild.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjU0NWM2YTBkLWNmNjAtNGIyOS04OGRhLWVhYTEwZTU3MWZjNyIsInB1ciI6ImJsb2JfaWQifX0=--8a3647b70f6db39f236cd13d24ecda1d24c962d0
+url: http://frenchcraftguild.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjU0NWM2YTBkLWNmNjAtNGIyOS04OGRhLWVhYTEwZTU3MWZjNyIsInB1ciI6ImJsb2JfaWQifX0=--1865e43af0365dbc3b48c5921c40a45ec2d39020/chenel-luminaire-XXL.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/x5bsx0u8lse3xrw8jmw7cixduv0o
+download_url: http://frenchcraftguild.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjU0NWM2YTBkLWNmNjAtNGIyOS04OGRhLWVhYTEwZTU3MWZjNyIsInB1ciI6ImJsb2JfaWQifX0=--1865e43af0365dbc3b48c5921c40a45ec2d39020
 
